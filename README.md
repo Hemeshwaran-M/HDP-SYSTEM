@@ -63,7 +63,7 @@ This prints the cleaning report, the model comparison and the confusion matrix, 
 streamlit run app.py
 ```
 
-Open http://localhost:8501 in your browser.
+Open (https://hdp-system.streamlit.app/) in your browser.
 
 ## Database
 
